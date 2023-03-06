@@ -1,0 +1,83 @@
+#language{
+    text-align: center;
+}
+.head h1{
+    font-size: 70px;
+    line-height: 60px;
+    text-align: center;
+    padding: 50px;
+    font-style: italic;
+}
+.head h2{
+    text-align: center;
+    font-size: 14px;
+    margin: 10px 10px 5px 10px;
+    line-height: 18px;
+    font-style: italic;
+}
+
+.container {
+    text-align: justify;
+    padding: 20px;
+}
+
+.onecon {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    
+}  
+
+.one h6{
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.one h5{
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.two h6{
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.two h5{
+    font-size: 24px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.input{
+    margin-top: 40px;
+}
+input{
+    width: 35px;
+    text-align: center;
+    padding: 3px 5px;
+    border-width: 1px;
+
+}
+.radio{
+    margin-top: -80px;
+    margin-left: 60px;
+}
+
+
+.checkbox{
+    margin-top: -100px;
+    margin-left: 200px; 
+}
+
+.button{
+    margin-left: 220px;
+    margin-top: 10px;
+    text-align: center;
+    
+
+}
